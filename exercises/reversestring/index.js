@@ -5,7 +5,7 @@
 //   reverse('apple') === 'leppa'
 //   reverse('hello') === 'olleh'
 //   reverse('Greetings!') === '!sgniteerG'
-
+//linear runtime
 //1st solution
 // function reverse(str) {
 //     //split string into array
